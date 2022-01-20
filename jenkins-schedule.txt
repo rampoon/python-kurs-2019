@@ -1,0 +1,15 @@
+# Jenkins kommer att köra övningarna som ingår i de kapitel som listas nedan.
+# Rader som startas med # ignoreras.
+#
+# Om filen tas bort körs alla övningar.
+
+ovn03
+# ovn04
+# ovn05
+# ovn06
+# ovn07
+# ovn08
+# ovn09
+# ovn10
+# ovn11
+# ovn12

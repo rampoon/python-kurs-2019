@@ -28,3 +28,4 @@ Om du vill skippa en enstaka övning kan du skapa en fil med namnet **skip.txt**
 
 osv.
 # python-kurs-2019
+# python-kurs-2019
